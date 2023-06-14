@@ -35,7 +35,7 @@ Before running the application, make sure you have the voices.json file and an A
 To run the application, use the following command in your terminal:
 
 ```bash
-python main.py
+python app.py
 ```
 
 The GUI of the application will appear. Here, you can:
